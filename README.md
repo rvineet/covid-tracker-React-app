@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Deployed at : https://covid-19-tracker-9a671.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
